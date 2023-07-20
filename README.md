@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad rafiq</h1>
 <h3 align="center">A MERN Stack development Internee at Rinor Technology from Gilgit Baltistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-rafiq-337747231&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-rafiq-337747231" /> </p>
+
 
 
 
