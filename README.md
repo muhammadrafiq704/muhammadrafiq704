@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad rafiq</h1>
+<h2>About Me</h2>
 <h3 align="center">A MERN Stack development Internee at Rinor Technology from Gilgit Baltistan</h3>
 
 
