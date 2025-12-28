@@ -7,8 +7,8 @@
 <h3 align="center">Frontend Developer | MERN Stack Enthusiast | React & Next.js Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-rafiq&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
   <img src="https://img.shields.io/badge/Focus-Frontend-blue" />
+  <img src="https://img.shields.io/badge/Focus-Backend-green" />
   <img src="https://img.shields.io/badge/Code-React%20%2F%20Next.js%20%2F%20Typescript-purple" />
   <img src="https://img.shields.io/badge/From-Gilgit%20Baltistan-green" />
 </p>
@@ -44,7 +44,8 @@
 
 ### 🚀 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,shadcnui" height="45" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui" height="45" />
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="45" alt="shadcn-ui" />
 </p>
 
 ### ⚙ Backend & Databases
