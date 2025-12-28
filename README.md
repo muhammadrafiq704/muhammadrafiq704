@@ -7,6 +7,7 @@
 <h3 align="center">Frontend Developer | MERN Stack Enthusiast | React & Next.js Developer</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-rafiq&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
   <img src="https://img.shields.io/badge/Focus-Frontend-blue" />
   <img src="https://img.shields.io/badge/Focus-Backend-green" />
   <img src="https://img.shields.io/badge/Code-React%20%2F%20Next.js%20%2F%20Typescript-purple" />
@@ -62,14 +63,18 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadrafiq704&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadrafiq704&theme=tokyonight&hide_border=true" height="170" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrafiq704&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadrafiq704&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadrafiq704&theme=tokyonight&hide_border=true" width="48%" />
+
+  <br><br>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrafiq704&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
 
 ---
 
