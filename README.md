@@ -49,7 +49,7 @@
 
 ### ⚙ Backend & Databases
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" height="45" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="45" />
 </p>
 
 ### 🧰 Tools & Dev Utilities
@@ -62,12 +62,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-rafiq&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-rafiq&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadrafiq704&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadrafiq704&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-rafiq&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrafiq704&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
