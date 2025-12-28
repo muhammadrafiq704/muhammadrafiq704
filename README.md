@@ -65,14 +65,18 @@
 
 <div align="center">
 
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadrafiq704&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadrafiq704&theme=tokyonight&hide_border=true" width="48%" />
+<!-- Profile Summary Card (Alternative to github-readme-stats) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadrafiq704&theme=github_dark" width="400" alt="Profile Details"/>
 
-  <br><br>
+<br>
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrafiq704&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<!-- Most Used Languages -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadrafiq704&theme=github_dark" width="400" alt="Languages"/>
+
+<br>
+
+<!-- Most Starred Repositories -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadrafiq704&theme=github_dark" width="400" alt="Stats"/>
 
 </div>
 
