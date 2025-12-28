@@ -1,80 +1,96 @@
+<!-- Banner (you can later replace it with your own custom banner image) -->
+<p align="center">
+  <img src="https://i.postimg.cc/wT3v3P1f/developer-banner.png" alt="banner" style="border-radius:10px;"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Muhammad Rafiq</h1>
-<h3 align="center">Junior MERN Stack & Frontend Developer | React | Next.js | TypeScript</h3>
-
----
-
-### 🚀 About Me
-
-🌱 MERN Stack Development Intern at Rinor Technology  
-💻 Passionate about **Frontend Development**, UI/UX, Web Applications  
-🔭 Currently improving skills in **Next.js 14, TypeScript, Tailwind CSS, REST APIs**  
-🎯 Goal: Become a **skilled full-stack developer** and build production-ready SaaS projects  
-📍 From Gilgit Baltistan, Pakistan  
-
----
-
-### 🌐 Connect With Me
-
-<p>
-<a href="https://www.linkedin.com/in/muhammad-rafiq-337747231/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-</a>
-<a href="https://instagram.com/sameer704_balti" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
-</a>
-</p>
-
----
-
-### 🛠 Tech Stack
-
-#### 💻 Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,bootstrap,materialui" height="45"/>
-</p>
-
-#### ⚙ Backend & Databases
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" height="45"/>
-</p>
-
-#### 🧰 Tools & Others
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" height="45"/>
-</p>
-
----
-
-### 📈 GitHub Stats
+<h3 align="center">Frontend Developer | MERN Stack Enthusiast | React & Next.js Developer</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-rafiq&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-rafiq&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-rafiq&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
+  <img src="https://img.shields.io/badge/Focus-Frontend-blue" />
+  <img src="https://img.shields.io/badge/Code-React%20%2F%20Next.js%20%2F%20Typescript-purple" />
+  <img src="https://img.shields.io/badge/From-Gilgit%20Baltistan-green" />
 </p>
 
 ---
 
-### 🔥 Current Focus
+## 👨‍💻 About Me
 
-- Building real-world projects with **React & Next.js**
-- Writing clean & scalable code with **TypeScript**
-- Learning **Authentication, APIs, State Management**
-- Exploring **Backend with Node, Express & MongoDB**
-
----
-
-### 🧩 Projects Coming Soon
-
-📌 Portfolio Website  
-📌 MERN Based Full-Stack Projects  
-📌 UI Components & Open-source contributions  
+- 🚀 Junior **MERN Stack Developer**  
+- 🌱 Currently learning **Next.js, TypeScript & Advanced Frontend Architecture**
+- 🔥 Interested in **UI/UX**, component building, open-source & SaaS ideas  
+- 🧑‍💼 Intern at Rinor Technology  
+- 🎯 Aiming to become a **productive full-stack developer**  
+- 💬 Ask me about **React, Next.js, JavaScript, TypeScript**  
+- 📫 Reach me via **LinkedIn below**
 
 ---
 
-💬 *Open for collaboration & discussions!*  
-📩 Reach me anytime on LinkedIn.
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/muhammad-rafiq-337747231/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+<a href="https://instagram.com/sameer704_balti" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" width="45" />
+</a>
+</p>
 
 ---
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+## 🛠 Tech Stack
+
+### 🚀 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,bootstrap" height="45" />
+</p>
+
+### ⚙ Backend & Databases
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" height="45" />
+</p>
+
+### 🧰 Tools & Dev Utilities
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" height="45" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-rafiq&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-rafiq&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-rafiq&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+## 📂 Featured Projects (Soon Updating)
+
+📌 Portfolio Website (Next.js + Tailwind)  
+📌 MERN Stack Full Projects  
+📌 UI Component Packs  
+📌 Mini SaaS Concepts  
+
+---
+
+## 🎯 Goals for 2025
+
+- Build real-world full-stack apps  
+- Contribute to open-source  
+- Improve system design & backend logic  
+- Learn testing (Jest/Playwright)  
+
+---
+
+<p align="center">
+  ⭐ If you like my work, don't forget to **Star the repos!**  
+</p>
 
