@@ -20,7 +20,7 @@
 - 🚀 Junior **MERN Stack Developer**  
 - 🌱 Currently learning **Next.js, TypeScript & Advanced Frontend Architecture**
 - 🔥 Interested in **UI/UX**, component building, open-source & SaaS ideas  
-- 🧑‍💼 Intern at Rinor Technology  
+- 🧑‍💼 Intern at Code Skardu  
 - 🎯 Aiming to become a **productive full-stack developer**  
 - 💬 Ask me about **React, Next.js, JavaScript, TypeScript**  
 - 📫 Reach me via **LinkedIn below**
@@ -44,7 +44,7 @@
 
 ### 🚀 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,bootstrap" height="45" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,shadcn" height="45" />
 </p>
 
 ### ⚙ Backend & Databases
