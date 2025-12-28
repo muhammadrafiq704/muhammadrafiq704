@@ -1,7 +1,4 @@
-<!-- Banner (you can later replace it with your own custom banner image) -->
-<p align="center">
-  <img src="https://i.postimg.cc/wT3v3P1f/developer-banner.png" alt="banner" style="border-radius:10px;"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Muhammad Rafiq</h1>
 <h3 align="center">Frontend Developer | MERN Stack Enthusiast | React & Next.js Developer</h3>
