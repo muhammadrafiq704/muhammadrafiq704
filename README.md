@@ -44,7 +44,7 @@
 
 ### 🚀 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,shadcn" height="45" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,shadcnui" height="45" />
 </p>
 
 ### ⚙ Backend & Databases
